@@ -50,7 +50,7 @@ Graphic outputs that showed children's faces were removed from the saved noteboo
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff). DOI: _to be added after the Zenodo release_.
+See [`CITATION.cff`](CITATION.cff).
 
 ## License
 
