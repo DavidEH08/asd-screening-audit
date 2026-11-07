@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "asd-screening-audit: audit of public Q-CHAT-10 and facial-image datasets and simulated late fusion for early ASD screening"
+authors:
+  - family-names: "Espinoza Hinostroza"
+    given-names: "David Sebastian"
+repository-code: "https://github.com/DavidEH08/asd-screening-audit"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Early screening of autism spectrum disorder in children using machine learning with Q-CHAT-10 and facial images: evaluation of public datasets and simulated late fusion"
+  authors:
+    - family-names: "Espinoza Hinostroza"
+      given-names: "David Sebastian"
+  year: 2026

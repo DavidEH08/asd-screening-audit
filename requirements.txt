@@ -1,0 +1,16 @@
+# Package list. Run the "Versiones del entorno" cell in any notebook and
+# pin the exact versions it prints before the final release.
+numpy
+pandas
+scipy
+scikit-learn
+xgboost==3.4.1
+statsmodels
+shap
+matplotlib
+seaborn
+joblib
+Pillow
+imagehash
+opencv-python
+tensorflow

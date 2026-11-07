@@ -1,0 +1,8 @@
+data/*
+!data/README.md
+outputs/
+models/
+*.onnx
+*.joblib
+*.npz
+.ipynb_checkpoints/
